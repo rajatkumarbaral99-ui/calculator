@@ -7,7 +7,7 @@ num2 = float(input("Dusra number enter karo: "))
 if operator == "+":
     result = num1 + num2
 elif operator == "-":
-    result = num1 +num2
+    result = num1 -num2
 elif operator == "*":
     result = num1 * num2
 elif operator == "/":
